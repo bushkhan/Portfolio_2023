@@ -27,7 +27,7 @@ lottie_coding5 = load_lottieurl("https://assets6.lottiefiles.com/packages/lf20_f
 
 
 
-img1 = Image.open("images/img1.jpg")
+
 
 #header section
 with st.container():
