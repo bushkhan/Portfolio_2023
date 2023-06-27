@@ -57,5 +57,4 @@ psutil==5.9.0
 psycopg2_binary==2.9.5
 py==1.11.0
 pycares==4.3.0
-pycurl==7.45.2
 
