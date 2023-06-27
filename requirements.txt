@@ -49,7 +49,6 @@ meinheld==1.0.2
 mock==4.0.3
 mtrand==0.1
 mypy==1.4.1
-numarray==1.5.1
 Numeric==24.2
 numexpr==2.8.3
 odfpy==1.4.1
