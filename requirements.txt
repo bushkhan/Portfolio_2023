@@ -39,7 +39,6 @@ hypothesis==6.79.3
 ipython==7.31.1
 ipywidgets==7.6.5
 isoduration==20.11.0
-jnius==1.1.0
 JPype1==1.4.1
 jsonpointer==2.4
 keyring==23.4.0
